@@ -1,0 +1,17 @@
+form {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+}
+
+.verzend {
+    width: 75px;
+}
+
+ul {
+    list-style: none;
+}
+
+.errors {
+    color: red;
+}

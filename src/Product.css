@@ -1,0 +1,21 @@
+.product {
+    display: flex;
+    width: 350px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    border: 2px #117274 solid;
+    border-radius: 5px;
+    margin: 8px;
+}
+
+.btn {
+    width: 30px;
+    height: 30px;
+    margin: 8px;
+    font-size: larger;
+}
+
+#reset {
+    width: 350px;
+}
